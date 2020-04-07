@@ -490,10 +490,9 @@
   //#define DEFAULT_Ki 2.25
   //#define DEFAULT_Kd 440
 
-  // Vellemann K8200 Extruder - calculated with PID Autotune and tested
-  #define DEFAULT_Kp 24.29
-  #define DEFAULT_Ki 1.58
-  #define DEFAULT_Kd 93.51
+    #define DEFAULT_Kp 14.79
+    #define DEFAULT_Ki 1.34
+    #define DEFAULT_Kd 40.90
 #endif // PIDTEMP
 
 //===========================================================================
